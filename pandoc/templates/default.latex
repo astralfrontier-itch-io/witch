@@ -1,0 +1,11 @@
+\documentclass{article}
+\usepackage{lmodern}
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+\usepackage{parskip}
+\begin{document}
+\title{$title$}
+$body$
+\end{document}
