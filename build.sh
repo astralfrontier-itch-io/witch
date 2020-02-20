@@ -18,5 +18,6 @@ function runPandoc() {
         #
 }
 
+runPandoc ./rules/rules.md rules.pdf default
 runPandoc ./playbooks/idiot.md idiot.pdf playbook
-cp idiot.pdf /mnt/c/Users/opens/Downloads
+cp rules.pdf /mnt/c/Users/opens/Downloads
