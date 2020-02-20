@@ -20,4 +20,17 @@ function runPandoc() {
 
 runPandoc ./rules/rules.md rules.pdf default
 runPandoc ./playbooks/idiot.md idiot.pdf playbook
-cp rules.pdf /mnt/c/Users/opens/Downloads
+
+# Combine PDFs
+gs -sDEVICE=pdfwrite            \
+    -dCompatibilityLevel=1.4    \
+    -dPDFSETTINGS=/default      \
+    -dNOPAUSE -dQUIET -dBATCH   \
+    -dDetectDuplicateImages     \
+    -dCompressFonts=true        \
+    -r150                       \
+    -sOutputFile=WITCH.pdf      \
+    rules.pdf                   \
+    idiot.pdf
+
+cp WITCH.pdf /mnt/c/Users/opens/Downloads

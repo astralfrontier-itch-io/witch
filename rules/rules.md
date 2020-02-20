@@ -1,3 +1,8 @@
+---
+title: Wands in Twilight Come Hither
+subtitle: A game about teenage magic and growing up
+---
+
 WITCH is a game about a close­-knit group of teenage characters
 with magical powers, called a coven, and the adventures they have.
 We play to watch them stumble toward adulthood,

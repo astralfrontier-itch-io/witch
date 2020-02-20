@@ -1,11 +1,50 @@
-\documentclass{article}
+% !TEX engine = xelatex
+
+% Documentation: http://texdoc.net/texmf-dist/doc/latex/memoir/memman.pdf
+
+\documentclass[oneside,twocolumn]{memoir}
+\usepackage[letterpaper, portrait]{geometry}
+
+%%% fonts and such
 \usepackage{lmodern}
 \usepackage{fontspec}
 \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
 \usepackage{microtype}
 \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+
+%%% page formatting
+\pagestyle{plain}
+
+% remove numbering from section titles, as we'll use our sections as dividers between rules chunks
+\setsecnumformat{}
+
+% now reduce spacing around section tags
+\setaftersecskip{1mm}
+\setbeforesecskip{3mm}
+
+% render two columns
+\usepackage{multicol}
+\setlength{\columnsep}{2em}
+
+%%% paragraph formatting
 \usepackage{parskip}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1.2em}
+
+% render lists in more compact form
+\usepackage{enumitem}
+\setlist[enumerate]{noitemsep, topsep=-2pt}
+\setlist[itemize]{noitemsep, topsep=-2pt}
+
+%%% assorted
+
+% depended upon by pandoc
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
 \begin{document}
+
 \title{$title$}
 $body$
+
 \end{document}

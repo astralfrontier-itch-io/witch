@@ -37,10 +37,10 @@ abilities:
       have advances a progress clock by at least 1 segment.
   - name: Something Amazing
     desc: |-
-      at the start of an adventure, start a 4­segment clock.
-      Mark a segment when you accept an Uh­-Oh, or a Bad Outcome happens to anyone.
-      When the clock finishes ticking, you can choose one magical effect
-      you're rolling or assisting on; it gains potency.
+      at the start of an adventure, start a 4­-segment clock.
+      Mark a segment when you accept Chaos, or a Bad Outcome happens to anyone.
+      When the clock finishes ticking, the next magical effect
+      you're rolling or assisting on gains potency.
   - name: You Again
     desc: |-
       you get an extra downtime action to Behave,
