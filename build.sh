@@ -2,6 +2,8 @@
 
 set -xeuo pipefail
 
+# apt install pandoc texlive-base texlive-latex-recommended texlive texlive-latex-extra texlive-xetex
+
 # Usage: runPandoc $INPUT $OUTPUT $TEMPLATE
 function runPandoc() {
     local INPUT=${1}
@@ -11,11 +13,10 @@ function runPandoc() {
         -o "$OUTPUT"            \
         --data-dir pandoc       \
         --template "$TEMPLATE"  \
+        --latex-engine=xelatex  \
         #-f gfm                  \
-        #--pdf-engine=xelatex    \
-        
+        #
 }
 
-runPandoc input.md output.latex
-#runPandoc output.tex output.pdf
-#cp output.pdf /mnt/c/Users/opens/Downloads
+runPandoc ./playbooks/idiot.md idiot.pdf playbook
+cp idiot.pdf /mnt/c/Users/opens/Downloads

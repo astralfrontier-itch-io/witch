@@ -1,0 +1,76 @@
+% !TEX engine = xelatex
+
+\documentclass{article}
+\usepackage[letterpaper, portrait, margin=1in]{geometry}
+
+\usepackage{lmodern}
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+\usepackage{parskip}
+
+\begin{document}
+\title{$name$}
+
+\section{$name$}
+
+\textbf{XP Trigger}: $xp-trigger$
+
+\textbf{Touchstones}: $touchstones$
+
+$desc$
+
+\begin{minipage}[t]{0.5\textwidth}
+\section{Actions}
+
+\subsection{Brains}
+
+☐☐☐ Fiddle\\
+☐☐☐ Study\\
+☐☐☐ Theorize
+
+\subsection{Guts}
+
+☐☐☐ Duel\\
+☐☐☐ Scurry\\
+☐☐☐ Tiptoe
+
+\subsection{Heart}
+
+☐☐☐ Chat\\
+☐☐☐ Feel\\
+☐☐☐ Yell
+
+\section{Trappings}
+
+$for(trappings)$
+☐ $trappings$\\
+$endfor$
+
+$if(specialtrappings)$
+\section{Special Trappings}
+
+$for(specialtrappings)$
+☐ $specialtrappings$\\
+$endfor$
+$endif$
+
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+
+\section{Abilities}
+
+$for(abilities)$
+$if(abilities.checked)$☑$else$☐$endif$ \textbf{$abilities.name$}: $abilities.desc$\\
+$endfor$
+
+\section{Contacts}
+
+$for(contacts)$
+☐ $contacts$\\
+$endfor$
+
+
+\end{minipage}
+\end{document}
