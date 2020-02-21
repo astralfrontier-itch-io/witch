@@ -41,65 +41,9 @@ ${ common() }
 
 \textbf{XP Trigger}: $xp-trigger$
 
-\textbf{Touchstones}: $touchstones$
-
 $desc$
 
-\begin{minipage}[t]{0.49\textwidth}
-\subsection{Actions}
-
-\begin{minipage}[t]{0.32\textwidth}
-\subsubsection{Brains}
-
-\begin{itemize}
-\item[\ability] Fiddle
-\item[\ability] Study
-\item[\ability] Theorize
-\end{itemize}
-
-\end{minipage}
-\begin{minipage}[t]{0.32\textwidth}
-
-\subsubsection{Guts}
-
-\begin{itemize}
-\item[\ability] Duel
-\item[\ability] Scurry
-\item[\ability] Tiptoe
-\end{itemize}
-
-\end{minipage}
-\begin{minipage}[t]{0.32\textwidth}
-
-\subsubsection{Heart}
-
-\begin{itemize}
-\item[\ability] Chat
-\item[\ability] Feel
-\item[\ability] Yell
-\end{itemize}
-
-\end{minipage}
-
-\subsection{Trappings}
-
-\begin{itemize}
-$for(trappings)$
-\item[\accessory] $trappings$
-$endfor$
-\end{itemize}
-
-\subsection{Special Trappings}
-
-\begin{itemize}
-$for(specialtrappings)$
-\item[\accessory] $specialtrappings$
-$endfor$
-\end{itemize}
-
-\end{minipage}
-\begin{minipage}[t]{0.49\textwidth}
-
+\begin{minipage}[t]{0.42\textwidth}
 \subsection{Abilities}
 
 \begin{itemize}
@@ -108,11 +52,30 @@ $for(abilities)$
 $endfor$
 \end{itemize}
 
-\subsection{Contacts}
+\subsection{Resources}
+
+These are physical assets you have access to.
 
 \begin{itemize}
-$for(contacts)$
-\item[\accessory] $contacts$
+$for(resources)$
+\item[\accessory] $resources$
+$endfor$
+\end{itemize}
+
+\end{minipage}
+\begin{minipage}[t]{0.16\textwidth}
+\hspace{1cm}
+\end{minipage}
+\begin{minipage}[t]{0.42\textwidth}
+
+\subsection{Friendship Perks}
+
+You can only spend XP to unlock these when two witches demonstrate the relationship in question.
+At the start of each adventure, mark one extra Friendship for each relationship that's been unlocked.
+
+\begin{itemize}
+$for(perks)$
+\item[\accessory] \textbf{$perks.name$}: $perks.desc$
 $endfor$
 \end{itemize}
 

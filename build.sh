@@ -29,6 +29,7 @@ function runPandoc() {
 rm -f dist/*
 
 find rules -type f | while read i; do runPandoc $i B default; done
+find covens -type f | while read i; do runPandoc $i C coven; done
 find playbooks -type f | while read i; do runPandoc $i P playbook; done
 
 # Combine PDFs
