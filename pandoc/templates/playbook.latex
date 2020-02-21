@@ -1,40 +1,38 @@
 % !TEX engine = xelatex
 
 % Documentation: http://texdoc.net/texmf-dist/doc/latex/memoir/memman.pdf
-
 \documentclass[oneside]{memoir}
-\usepackage[letterpaper, portrait]{geometry}
 
-%%% fonts and such
-\usepackage{lmodern}
-\usepackage{fontspec}
-\defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
-\usepackage{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+${ common() }
 
 %%% page formatting
+% no page numbers
 \pagestyle{empty}
 
-% remove numbering from section titles, as we'll use our sections as dividers between rules chunks
-\setsecnumformat{}
+%%% fonts
+\setmainfont[Path = fonts/,
+    UprightFont={Lato-Regular},
+    BoldFont={Lato-Bold},
+    ItalicFont={Lato-Italic},
+    BoldItalicFont={Lato-BoldItalic}
+]{Lato}
 
-% now reduce spacing around section tags
-\setaftersecskip{1mm}
-\setbeforesecskip{3mm}
+\newfontfamily\bigsectionfont[Path = fonts/, Scale=2.0,
+    UprightFont={NotoSerif-Regular},
+    BoldFont={NotoSerif-Bold},
+    ItalicFont={NotoSerif-Italic},
+    BoldItalicFont={NotoSerif-BoldItalic}
+]{NotoSerif}
 
-% render two columns
-\usepackage{multicol}
-\setlength{\columnsep}{2em}
+\newfontfamily\sectionfont[Path = fonts/, Scale=1.2,
+    UprightFont={NotoSerif-Regular},
+    BoldFont={NotoSerif-Bold},
+    ItalicFont={NotoSerif-Italic},
+    BoldItalicFont={NotoSerif-BoldItalic}
+]{NotoSerif}
 
-%%% paragraph formatting
-\usepackage{parskip}
-\setlength{\parindent}{0em}
-\setlength{\parskip}{1.2em}
-
-% render lists in more compact form
-\usepackage{enumitem}
-\setlist[enumerate]{noitemsep, topsep=-2pt}
-\setlist[itemize]{noitemsep, topsep=-2pt}
+\newcommand*\ability[0]{\unchecked \unchecked \unchecked}
+\newcommand*\accessory[0]{\unchecked}
 
 \begin{document}
 \title{$name$}
@@ -48,55 +46,75 @@
 $desc$
 
 \begin{minipage}[t]{0.5\textwidth}
-\section{Actions}
+\subsection{Actions}
 
-\subsection{Brains}
+\begin{minipage}[t]{0.3\textwidth}
+\subsubsection{Brains}
 
-☐☐☐ Fiddle\\
-☐☐☐ Study\\
-☐☐☐ Theorize
+\begin{itemize}
+\item[\ability] Fiddle
+\item[\ability] Study
+\item[\ability] Theorize
+\end{itemize}
 
-\subsection{Guts}
+\end{minipage}
+\begin{minipage}[t]{0.3\textwidth}
 
-☐☐☐ Duel\\
-☐☐☐ Scurry\\
-☐☐☐ Tiptoe
+\subsubsection{Guts}
 
-\subsection{Heart}
+\begin{itemize}
+\item[\ability] Duel
+\item[\ability] Scurry
+\item[\ability] Tiptoe
+\end{itemize}
 
-☐☐☐ Chat\\
-☐☐☐ Feel\\
-☐☐☐ Yell
+\end{minipage}
+\begin{minipage}[t]{0.3\textwidth}
 
-\section{Trappings}
+\subsubsection{Heart}
 
+\begin{itemize}
+\item[\ability] Chat
+\item[\ability] Feel
+\item[\ability] Yell
+\end{itemize}
+
+\end{minipage}
+
+\subsection{Trappings}
+
+\begin{itemize}
 $for(trappings)$
-☐ $trappings$\\
+\item[\accessory] $trappings$
 $endfor$
+\end{itemize}
 
-$if(specialtrappings)$
-\section{Special Trappings}
+\subsection{Special Trappings}
 
+\begin{itemize}
 $for(specialtrappings)$
-☐ $specialtrappings$\\
+\item[\accessory] $specialtrappings$
 $endfor$
-$endif$
+\end{itemize}
 
 \end{minipage}
 \begin{minipage}[t]{0.5\textwidth}
 
-\section{Abilities}
+\subsection{Abilities}
 
+\begin{itemize}
 $for(abilities)$
-$if(abilities.checked)$☑$else$☐$endif$ \textbf{$abilities.name$}: $abilities.desc$\\
+\item[$if(abilities.checked)$\checked$else$\unchecked$endif$] \textbf{$abilities.name$}: $abilities.desc$
 $endfor$
+\end{itemize}
 
-\section{Contacts}
+\subsection{Contacts}
 
+\begin{itemize}
 $for(contacts)$
-☐ $contacts$\\
+\item[\accessory] $contacts$
 $endfor$
-
+\end{itemize}
 
 \end{minipage}
 \end{document}

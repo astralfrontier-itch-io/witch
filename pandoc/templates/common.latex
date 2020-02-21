@@ -1,0 +1,42 @@
+%%% Required by Pandoc
+\usepackage{hyperref}
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%%% One page, 
+\usepackage[letterpaper, portrait]{geometry}
+
+%%% fonts and such
+\usepackage{lmodern}
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+
+%%% Memoir section styling
+\setsecheadstyle{\bigsectionfont\center}
+\setsubsecheadstyle{\sectionfont\center\textbf}
+\setsubsubsecheadstyle{\sectionfont\center\textit}
+
+% remove numbering from section titles, as we'll use our sections as dividers between rules chunks
+\setsecnumformat{}
+
+% now reduce spacing around section tags
+\setaftersecskip{1mm}
+\setbeforesecskip{3mm}
+
+%%% paragraph formatting
+\usepackage{parskip}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1.2em}
+
+% Checked and unchecked boxes
+\usepackage{pifont}
+\usepackage{amssymb}
+
+\newcommand*\unchecked[0]{$$\square$$}
+\newcommand*\checked[0]{\rlap{\raisebox{0.3ex}{\hspace{0.4ex}\tiny \ding{52}}}$$\square$$}
+
+% render lists in more compact form
+\usepackage{enumitem}
+\setlist[enumerate]{noitemsep, topsep=-2pt}
+\setlist[itemize]{noitemsep, topsep=-2pt}
