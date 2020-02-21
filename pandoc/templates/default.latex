@@ -5,6 +5,8 @@
 \documentclass[oneside,twocolumn]{memoir}
 \usepackage[letterpaper, portrait]{geometry}
 
+\usepackage{hyperref}
+
 %%% fonts and such
 \usepackage{lmodern}
 \usepackage{fontspec}
