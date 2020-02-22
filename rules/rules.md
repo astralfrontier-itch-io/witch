@@ -3,7 +3,7 @@ title: Wands in Twilight Come Hither
 subtitle: A game about teenage magic and growing up
 ---
 
-WITCH is a game about a close­-knit group of teenage characters
+WITCH is a game about a close-knit group of teenage characters
 with magical powers, called a coven, and the adventures they have.
 We play to watch them stumble toward adulthood,
 and see the price of life's lessons.
@@ -18,10 +18,11 @@ characters encountering and wielding magic as they grow up.
 
 ## How to Play
 
-The game requires 3­-6 players, one of whom will
+The game requires 3-6 players, one of whom will
 be the Mentor. Mentors facilitate the game, keep
 things flowing, present challenges, and ask
 questions. Everyone else will play a Witch.
+
 Witches can be of any gender or other
 persuasion. Magic calls to all. Everyone will play
 at least one character in the game, although
@@ -34,14 +35,14 @@ The game will shift between three styles of play:
 classes or do odd jobs, the **adventure**, where
 characters work together to achieve a goal or
 confront a challenge, and **downtime**, where the
-coven experiences the after­effects of adventuring.
+coven experiences the aftereffects of adventuring.
 
 When you play, the group will face questions: if
 our characters try to do a thing, what happens?
 The rules exist to help answer these questions,
 but they never dictate the results.
 
-Players always control how they do a thing ­- via
+Players always control how they do a thing - via
 persuasion, brains, magic, instinct. The Mentor
 always controls the risks or effectiveness of that
 "how", and whether to use dice to answer any
@@ -64,7 +65,7 @@ segments of a clock being filled in.
 ## Rolling Dice
 
 Whenever a rule tells you to roll dice, you'll be
-rolling one or more six-­sided dice. If a rule says a
+rolling one or more six-sided dice. If a rule says a
 number with a "d" after it, like "1d", that's a
 number of dice. Some rules give you bonus dice,
 like "+1d".
@@ -182,7 +183,7 @@ happening to them, that's a resistance roll.
 To make an action roll:
 
 * Declare your goal for the action ("I want...")
-* Choose the ability you're using to achieve it ("I'm Studying")
+* Choose the ability you're using to achieve it ("I'm Dueling")
 * The Mentor sets the position for the roll, based on your narration ("that sounds Risky")
 * The Mentor sets a effect level
 * Optionally, trade position for effect
@@ -193,7 +194,7 @@ To make an action roll:
 ### Setting the position
 
 The possible positions are **Boring**, **Risky**, and
-**Stupid**. Boring actions are low­risk, low­reward
+**Stupid**. Boring actions are low-risk, low-reward
 actions like library research where failure is still
 possible, but not dramatic. Risky actions are
 challenging, but can pay off if successful. Stupid
@@ -285,7 +286,7 @@ the roll.
 For example, a character with Chat 2 and
 Empathize 1, but no Yell score, has a Heart
 resistance of 3. If they roll a 2, 4, and 5, they
-would take (6 -­ 5) or 1 point of stress.
+would take (6 - 5) or 1 point of stress.
 
 The consequences you would have otherwise
 taken are negated or reduced. Resistance rolls
@@ -323,6 +324,7 @@ You can use stress to challenge yourself to try
 harder or go bigger. For each bonus you choose
 from the list, take 2 stress. You can pick each
 bonus only once.
+
 * Add +1d to any roll
 * Gain 1 level of effect
 * Take an action while you're otherwise incapacitated
@@ -334,13 +336,15 @@ its own. The characters don't anticipate the
 consequences of their actions, a hidden trap is
 triggered, an old spell is activated, or the hat
 they borrowed belongs to the senior provost.
-When a player is making a roll, anyone ­ the
-Mentor, other players, even that player ­ can
+When a player is making a roll, anyone - the
+Mentor, other players, even that player - can
 suggest a chaotic outcome. If the rolling player
 and the Mentor both accept the suggestion, the
 roll gets a bonus of 1d. The outcome happens,
 whether or not the roll succeeds.
+
 Typical chaotic outcomes are:
+
 * Unintended consequences or unwanted harm
 * Loss of Image or an important item
 * A betrayal of a friend or loved one
@@ -390,9 +394,9 @@ adventures as a Witch, look at how much Image
 you've accumulated. This determines your Fate
 as an eventual adult:
 
-* 0­-10: a disreputable or sad witch
-* 11-­20: an inferior or typical witch
-* 21-­39: a successful or happy witch
+* 0-10: a disreputable or sad witch
+* 11-20: an inferior or typical witch
+* 21-39: a successful or happy witch
 * 40+: an extraordinary witch
 
 Magic demands much of a character, and some
@@ -499,7 +503,7 @@ The spark of an adventure can happen in many ways:
 
 ## Trappings
 
-Witches are young magic­-users, and they carry
+Witches are young magic-users, and they carry
 all manner of strange and wonderful items to aid
 them. Characters in fiction are often revealed to
 have just the right item for the adventure they
@@ -514,7 +518,7 @@ Your trappings are things like a magic wand, a
 broom for flying, and so on. During the
 adventure, when you discover a need for one of
 the trappings on your playbook sheet, mark it as
-something your'e carrying. You can't mark more
+something you're carrying. You can't mark more
 trappings than the number you selected at the
 start of the adventure, though.
 
@@ -526,16 +530,17 @@ fortune roll, starting with 1d. The Mentor
 answers these questions, and adds or removes
 dice. Then another player makes the roll.
 
-* Is this adventure particularly selfish, benefiting only one or a few people at a cost to others? Take ­-1d.
+* Is this adventure particularly selfish, benefiting only one or a few people at a cost to others? Take -1d.
 * Is it particularly selfless, doing something good for another person? Take +1d.
-* Is the focus of the adventure notably practical, boring, or pedestrian? Take -­1d.
+* Is the focus of the adventure notably practical, boring, or pedestrian? Take -1d.
 * Is the focus wondrous, magical, or strange? Take +1d.
-* Are any rivals or authorities interfering in the adventure? Take ­-1d.
+* Are any rivals or authorities interfering in the adventure? Take -1d.
 * Can any of your friends or contacts provide aid or insight for the adventure? Take +1d.
-* Are you going up against a scary obstacle or into an unexplored or dangerous area? Take -­1d.
+* Are you going up against a scary obstacle or into an unexplored or dangerous area? Take -1d.
 * Are you doing something safe, or in a well-known area? Take +1d.
 
 ## Playing Through the Adventure
+
 It's not fun to game through packing lunches,
 stuffing backpacks with odds and ends, saying
 goodbye to friends, or walking for hours through
@@ -563,10 +568,10 @@ Once the engagement roll has been made, and
 the Mentor has described how the Adventure
 has begun, the Witches play through the
 scenario, using action rolls, resistance rolls, and
-narratiing as appropriate.
+narrating as appropriate.
 
 There are two special actions witches can take
-during adventures: flashbacks and ritual magiic.
+during adventures: flashbacks and ritual magic.
 
 ## Flashbacks
 
@@ -629,7 +634,7 @@ leading the ritual). The overall result is as
 though everyone's die rolls had been made in a
 single action roll. However, the witch at the
 Center takes 1 stress for every other person who
-rolled a 1­-3 as their best result.
+rolled a 1-3 as their best result.
 
 Ritual magic can benefit from assists, setup
 actions, and all other benefits to an action roll.
@@ -709,11 +714,10 @@ faction relationships back up the same way
 Once faction relationships have changed, the
 Mentor decides how this manifests, and narrates
 something appropriate. Perhaps one faction
-sends a member to congratulate the coven ­ but
-another is on the war path, and sends an angry
-representive out for blood. The goals of the
-entanglement scene is to see how the witches'
-actions have changed the world around them,
+sends a member to congratulate the coven - but
+another is upset, and sends an angry representative.
+The goals of the entanglement scene is to see how
+the witches' actions have changed the world around them,
 and to spark new adventures.
 
 If appropriate, play through a scene in which the
@@ -740,7 +744,7 @@ the use of a magic spell, or a favor. The witch
 automatically adds this item to their trappings
 on the next adventure, and it does not cost
 against their usual trappings limits. To acquire
-something permanently, use a long­term project.
+something permanently, use a long-term project.
 
 ### Long­-Term Project
 
@@ -823,8 +827,8 @@ entire region, and the default home of a School
 Witches coven. Cobblespire is a sprawling,
 ancient collection of buildings, with towers
 reaching to cloudy skies. Vines reach up the
-walls from the herb­rich gardens. Room after
-room is thick with spider­webs and stacked
+walls from the herb-rich gardens. Room after
+room is thick with spider-webs and stacked
 tomes. Teachers in pointy hats instruct their
 students in ancient spells, while students gather
 in the commons and their own rooms to
@@ -844,7 +848,7 @@ is the default home of a City Witches coven.
 Broombridge is a melange of architectural styles,
 old manors and new shops, fountains and parks,
 statues to the folk heroes of olden time, homes
-and gardens. Sturdry farmers come to sell their
+and gardens. Sturdy farmers come to sell their
 wares to friendly city folk.
 
 Broombridge has a history with magic (pick one or more):
@@ -863,7 +867,7 @@ isolated camps where people live. Strange lights
 and stranger experiences await anyone who
 ventures too deeply into the woods. Potent
 herbs, talking animals, and rumors of a powerful
-wish­granting being named the Green Regent all
+wish-granting being named the Green Regent all
 beckon travelers in despite the risks.
 
 The nature of the Woods' magic is ambiguous
