@@ -449,15 +449,18 @@ them improve their confidence, improve their
 action scores, or grant them new abilities.
 
 At any time during play, you earn XP:
+
 * When you make a Stupid roll, for any reason, and whether or not it succeeds
 
 At the end of the adventure, you earn XP:
+
 * When you pursue your ideals and goals, or when your background comes into play in the story
 * When you struggle with your insecurities or Maturity conditions
 * When you meet your individual playbook's XP trigger
 * When any other rule indicates that you can mark XP
 
 You can spend earned XP at any time in the following ways:
+
 * Spend 4 points to grant yourself 1 point of Image, as your adventures improve your self-confidence
 * Spend 6 points to raise a single action rating by one, up to a maximum of 3
 * Spend 8 points to buy a new playbook ability
@@ -473,6 +476,7 @@ At the end of the adventure, the coven earns XP:
 * When the coven met its specific XP condition
 
 The coven can choose to spend XP at any time in the following ways:
+
 * Spend 8 points to buy a new coven ability or unlock a friendship perk
 * Spend 4 points to buy a new coven resource
 
@@ -495,6 +499,7 @@ The reason a coven of Witches goes on an adventure is called the spark:
 * Travel: the coven wants to get somewhere, either for a specific reason, or just to explore
 
 The spark of an adventure can happen in many ways:
+
 * Free play suggests an adventure idea, as the Witches learn about something and decide to pursue it
 * A Witch's friends or enemies place demands on them, such as a rival's public dare to enter the mysterious forest
 * A Witch wants to address one of their insecurities, such as learning of a magic book that will improve their grades
@@ -793,6 +798,7 @@ demands on you. Choose something that
 happened during the adventure or an insecurity,
 and declare what you do based on that.
 Examples:
+
 * start drama
 * argue with friends or family about something
 * isolate yourself (in your room or by sneaking out)
@@ -857,6 +863,7 @@ and gardens. Sturdy farmers come to sell their
 wares to friendly city folk.
 
 Broombridge has a history with magic (pick one or more):
+
 * The people know magic is real, but don't always like witches (why?)
 * The people aren't sure that magic is real or not, and some might react badly if it's revealed
 * The people need the help of witches, but resent feeling needy
