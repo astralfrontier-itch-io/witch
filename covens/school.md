@@ -5,24 +5,16 @@ desc: |-
   You attend a school where magic is taught. You will deal with rival classmates, put up with guff
   from teachers, and hopefully save the school once in awhile.
 abilities:
-  - name: Rare Books
-    checked: true
-    desc: |-
-      When you Train, mark 1 extra XP if you want to improve a Brains action
-  - name: Play Area
-    desc: |-
-      When you Train, mark 1 extra XP if you want to improve a Guts action
-  - name: Group Social Time
-    desc: |-
-      When you Train, mark 1 extra XP if you want to improve a Heart action
   - name: Chats With Mentor
-    desc: |-
-      characters can take an extra Maturity condition before retiring
+    desc: characters can take an extra Maturity condition before retiring
+  - name: Supply Locker
+    desc: when you raid the school's supplies to prepare for an adventure, take +1d on the engagement roll and tick 1 point of Scrutiny.
 resources:
-  - alchemy lab or ritual circle
-  - library and relic repository
+  - library of rare books
+  - ritual circle
+  - alchemy lab
+  - fantastical creature kennel
   - magical portal to another location
-  - secret hideaways
 perks:
   - name: Class and Sass
     desc: a sophisticated high­class PC contrasts with an everyday rough­-and-­ready PC
@@ -38,4 +30,4 @@ perks:
     desc: A fierce and serious older PC is protective and mentoring toward an innocent or cheerful younger PC
 ---
 
-The Idiot was the first playbook I imagined.
+TODO describe.
