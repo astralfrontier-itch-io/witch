@@ -7,14 +7,6 @@ desc: |-
   temper gets you in trouble, but can also inspire people. Your special thing is pushing through
   obstacles or doing the impossible.
 trappings:
-  - Standard wand
-  - Flying broom
-  - Animal familiar
-  - Light spell
-  - Fireball spell
-  - Transformation spell
-  - Grimoire with other spells
-specialtrappings:
   - Battle­-ready wand
   - High­speed broom
   - Disarming spell

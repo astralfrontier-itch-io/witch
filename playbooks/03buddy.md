@@ -7,14 +7,6 @@ desc: |-
   interested in supporting your friends. Your special thing is the inspiration and wonder that you
   create just by being yourself.
 trappings:
-  - Standard wand
-  - Flying broom
-  - Animal familiar
-  - Light spell
-  - Fireball spell
-  - Transformation spell
-  - Grimoire with other spells
-specialtrappings:
   - Family heirloom
   - Secret storybook
   - Important picture

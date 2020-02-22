@@ -7,14 +7,6 @@ desc: |-
   background, your magic was suppressed, etc.) Or, you're just an idiot. There's some kind of magic
   you're bad at. Maybe all magic. You make up for it with pluck, wits, or some special ability.
 trappings:
-  - Standard wand
-  - Flying broom
-  - Animal familiar
-  - Light spell
-  - Fireball spell
-  - Transformation spell
-  - Grimoire with other spells
-specialtrappings:
   - Mundane item or toy
   - Precious keepsake
   - Snack food

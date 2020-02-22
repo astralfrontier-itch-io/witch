@@ -7,14 +7,6 @@ desc: |-
   simply cautious. Clumsy slapstick. Your special thing is reserves of bravery or strength that come
   out when you're forced to face your fear.
 trappings:
-  - Standard wand
-  - Flying broom
-  - Animal familiar
-  - Light spell
-  - Fireball spell
-  - Transformation spell
-  - Grimoire with other spells
-specialtrappings:
   - Cursed wand
   - Malfunctioning spell
   - Strange animal

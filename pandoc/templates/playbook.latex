@@ -83,17 +83,29 @@ $desc$
 
 \subsection{Trappings}
 
+$if(trappings)$
 \begin{itemize}
+\item[\accessory] Standard wand
+\item[\accessory] Flying broom
+\item[\accessory] Animal familiar
+\item[\accessory] Light spell
+\item[\accessory] Fireball spell
+\item[\accessory] Transformation spell
+\item[\accessory] Grimoire with other spells
 $for(trappings)$
-\item[\accessory] $trappings$
+\item[\accessory] \textbf{$trappings$}
 $endfor$
 \end{itemize}
+$endif$
+$if(specialtrappings)$
+$specialtrappings$
+$endif$
 
-\subsection{Special Trappings}
+\subsection{Contacts}
 
 \begin{itemize}
-$for(specialtrappings)$
-\item[\accessory] $specialtrappings$
+$for(contacts)$
+\item[\accessory] $contacts$
 $endfor$
 \end{itemize}
 
@@ -105,14 +117,6 @@ $endfor$
 \begin{itemize}
 $for(abilities)$
 \item[$if(abilities.checked)$\checked$else$\unchecked$endif$] \textbf{$abilities.name$}: $abilities.desc$
-$endfor$
-\end{itemize}
-
-\subsection{Contacts}
-
-\begin{itemize}
-$for(contacts)$
-\item[\accessory] $contacts$
 $endfor$
 \end{itemize}
 

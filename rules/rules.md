@@ -515,12 +515,17 @@ between 2 and 5, and it's how many trappings
 you can pick.
 
 Your trappings are things like a magic wand, a
-broom for flying, and so on. During the
-adventure, when you discover a need for one of
-the trappings on your playbook sheet, mark it as
-something you're carrying. You can't mark more
+broom for flying, and so on. During an adventure,
+if you want to use one of your trappings, or do
+magic that suggests a trapping (like flying on
+a broom), mark the trapping as something you're
+carrying. You can reuse the same trapping
+several times. You can't mark more
 trappings than the number you selected at the
 start of the adventure, though.
+
+If a trapping name is bolded, gain potency
+when taking an action that uses that trapping.
 
 ## Engagement
 

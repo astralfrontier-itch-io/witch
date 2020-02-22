@@ -7,14 +7,6 @@ desc: |-
   Your special thing is that your unique magic style comes in handy when nothing else
   works or when things get weird, but it can cause trouble for friends too.
 trappings:
-  - Standard wand
-  - Flying broom
-  - Animal familiar
-  - Light spell
-  - Fireball spell
-  - Transformation spell
-  - Grimoire with other spells
-specialtrappings:
   - Extraordinary familiar
   - Exotic bestiary
   - Mysterious chemicals

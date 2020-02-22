@@ -7,14 +7,6 @@ desc: |-
   You need everyone else to know you know.
   You're awesome at actual magic. Your interpersonal skills might be lacking.
 trappings:
-  - Standard wand
-  - Flying broom
-  - Animal familiar
-  - Light spell
-  - Fireball spell
-  - Transformation spell
-  - Grimoire with other spells
-specialtrappings:
   - Ponderous tomes
   - Smart-­looking glasses
   - Personalized spell
