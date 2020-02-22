@@ -254,7 +254,7 @@ When talking about progress clocks, scrutiny, or
 other counters, Boring positions or Limited
 effects mean 1 tick, Risky positions or Standard
 effects mean 2 ticks, and Stupid positions or
-Great effects mean 3 ticks. Effects beyond great
+Great effects mean 3 ticks. Effects beyond Great
 mean 5 ticks.
 
 ### Progress Clocks
@@ -565,10 +565,11 @@ on the outcome of that roll:
 * On a Bad Outcome (a 1­3), the witches are in over their heads, and their next move will be Stupid
 
 In addition to the engagement roll, the Mentor starts one or more progress clocks:
+
 * A clock showing progress toward the adventure goal, if it makes sense to keep track of this (for example, if the goal is to explore, a clock might indicate how much of the area has been discovered)
 * A clock marking Scrutiny, which shows how much negative attention adults or authority figures are paying to the witches' actions
 
-Every time the Scrutiny clock ticks town,
+Every time the Scrutiny clock ticks down to nothing,
 the Mentor will mark a point of Trouble,
 and starts a new Scrutiny clock.
 Trouble affects entanglements,
@@ -813,7 +814,9 @@ happens:
 
 * Someone comes down on you (mark 2 Scrutiny)
 * You make the coven look bad (roll another entanglement)
-• You are grounded (out of the action for a few days to a week)
+* You are grounded (out of the action for a few days to a week)
+
+----
 
 ## Home Locations
 
