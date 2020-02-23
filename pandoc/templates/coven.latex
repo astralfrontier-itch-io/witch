@@ -74,9 +74,17 @@ You can only spend XP to unlock these when two witches demonstrate the relations
 At the start of each adventure, mark one extra Friendship for each relationship that's been unlocked.
 
 \begin{itemize}
+\item[\accessory] \textbf{Class and Sass}: a sophisticated high-class PC contrasts with an everyday rough­-and-­ready PC
+\item[\accessory] \textbf{Fire and Water}: one PC is fiery and passionate, the other is reserved and cool
+\item[\accessory] \textbf{Light and Dark}: one PC is brooding and angsty, the other is light and loving
+\item[\accessory] \textbf{Like Family}: two PCs have a sibling-like relationship (or might actually be related)
+\item[\accessory] \textbf{Stickler and Scoundrel}: one PC plays by the rules, the other one likes getting round them
+\item[\accessory] \textbf{Wolf and Cub}: a fierce and serious older PC is protective and mentoring toward an innocent or cheerful younger PC
+$if(perks)$
 $for(perks)$
 \item[\accessory] \textbf{$perks.name$}: $perks.desc$
 $endfor$
+$endif$
 \end{itemize}
 
 \end{minipage}

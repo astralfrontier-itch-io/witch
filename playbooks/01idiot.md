@@ -13,30 +13,24 @@ trappings:
 abilities:
   - name: Magic From the Heart
     checked: true
-    desc: |-
-      when you Yell or Feel in support of naive optimism, you gain potency.
+    desc: when you Yell or Feel in support of naive optimism, you gain potency.
       When you Resist in the name of those ideals, roll +1d.
   - name: Inspiring Idiocy
-    desc: |-
-      when someone assists you with a Stupid roll, mark Friendship.
-  - name: What's This Do?
-    desc: |-
-      misuse one of your trappings in a weird or creative way
-      to gain potency on a magical effect.
-  - name: Too Dumb To Fail
-    desc: |-
-      in addition to all other effects, any roll on an ability you don't
-      have advances a progress clock by at least 1 segment.
+    desc: when someone assists you with a Stupid roll, mark Friendship.
   - name: Something Amazing
-    desc: |-
-      at the start of an adventure, start a 4­-segment clock.
+    desc: at the start of an adventure, start a 4­-segment clock.
       Mark a segment when you accept Chaos, or a Bad Outcome happens to anyone.
       When the clock finishes ticking, the next magical effect
       you're rolling or assisting on gains potency.
-  - name: You Again
-    desc: |-
-      you get an extra downtime action to Behave,
-      as long as you narrate how you're admonished by adults in authority over you.
+  - name: Too Dumb To Fail
+    desc: in addition to all other effects, any roll on an ability you don't
+      have advances a progress clock by at least 1 segment.
+  - name: What's This Do?
+    desc: misuse one of your trappings in a weird or creative way
+      to gain potency on a magical effect.
+  - name: You Again?
+    desc: you get an extra downtime action to Behave,
+      but the adults in authority learn an important detail of what you did.
 contacts:
   - A mundane friend
   - An impressionable or loud kid

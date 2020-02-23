@@ -7,26 +7,25 @@ desc: |-
   (pick a relevant faction).
 abilities:
   - name: Chats With Mentor
-    desc: characters can take an extra Maturity condition before retiring
+    desc: characters can take an extra Maturity condition before growing up.
   - name: Corner Shop
     desc: a store, cafe, or other local business lets your coven hang out.
       When you Behave by working there part time, gain 1 Image.
+  - name: Mystic Marketplace
+    desc: You know where to obtain magical goods for sale.
+      When you spend downtime to Acquire Assets, the bonus trapping lasts until you acquire another one.
+  - name: Nameless Alleys
+    desc: you know how to make a getaway through the maze of streets and byways.
+      If your Trouble is 2 or higher, reduce it by 1 at the end of an adventure.
+  - name: Vacation Spot
+    desc: you know a beach, park, or other place you can go and relax.
+      When you Act Out, you never suffer an effect from reducing more stress than you have.
 resources:
   - club house
-  - steam tunnels
+  - favorite restaurant
 perks:
-  - name: Class and Sass
-    desc: a sophisticated high­class PC contrasts with an everyday rough­-and-­ready PC
-  - name: Fire and Water
-    desc: one PC is fiery and passionate, the other is reserved and cool
-  - name: Light and Dark
-    desc: one PC is brooding and angsty, the other is light and loving
-  - name: Like Family
-    desc: Two PCs have a sibling­-like relationship (or might actually be related)
-  - name: Stickler and Scoundrel
-    desc: one PC plays by the rules, the other one likes getting round them
-  - name: Wolf and Cub
-    desc: A fierce and serious older PC is protective and mentoring toward an innocent or cheerful younger PC
+  - name: Barn and Bistro
+    desc: one PC knows how the city works, the other one constantly gets it wrong
 ---
 
 TODO describe.

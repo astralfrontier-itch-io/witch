@@ -8,6 +8,9 @@ desc: |-
 abilities:
   - name: Chats With Mentor
     desc: characters can take an extra Maturity condition before retiring
+  - name: Wilderness Survival
+    desc: By living close to nature, you've learned tricks and habits that make you tougher.
+      You roll resistances at +1d.
 resources:
   - friendly forest spirit
   - sacred grove
@@ -15,18 +18,8 @@ resources:
   - tree house
   - hidden trails
 perks:
-  - name: Class and Sass
-    desc: a sophisticated high­class PC contrasts with an everyday rough­-and-­ready PC
-  - name: Fire and Water
-    desc: one PC is fiery and passionate, the other is reserved and cool
-  - name: Light and Dark
-    desc: one PC is brooding and angsty, the other is light and loving
-  - name: Like Family
-    desc: Two PCs have a sibling­-like relationship (or might actually be related)
-  - name: Stickler and Scoundrel
-    desc: one PC plays by the rules, the other one likes getting round them
-  - name: Wolf and Cub
-    desc: A fierce and serious older PC is protective and mentoring toward an innocent or cheerful younger PC
+  - name: Faith and Fact
+    desc: a PC who embraces the mysteries of the forest is friends with one who thinks there's a rational (if magical) explanation
 ---
 
 TODO describe.

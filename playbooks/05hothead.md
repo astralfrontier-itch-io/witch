@@ -14,10 +14,11 @@ abilities:
   - name: Better Faster Stronger
     checked: true
     desc: |-
-      when you Duel or
-      Scurry to upstage a rival or impress an audience,
-      gain potency. Gain +1d when you resist fear or
-      intimidation.
+      when you Duel or Scurry to upstage a rival or impress an audience,
+      gain potency. Gain +1d when you resist fear or intimidation.
+  - name: Born Rebel
+    desc: When rivals or authorities interfere during an adventure,
+      you gain potency on any actions where they are involved.
   - name: Drama Queen
     desc: when you act out, roll 2d and take the result you prefer when clearing stress. Anyone pulled into your drama may do the same.
 contacts:
