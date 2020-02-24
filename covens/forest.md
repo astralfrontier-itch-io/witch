@@ -11,6 +11,11 @@ abilities:
   - name: Wilderness Survival
     desc: By living close to nature, you've learned tricks and habits that make you tougher.
       You roll resistances at +1d.
+  - name: TBD
+  - name: TBD
+  - name: TBD
+  - name: TBD
+  - name: TBD
 resources:
   - friendly forest spirit
   - sacred grove

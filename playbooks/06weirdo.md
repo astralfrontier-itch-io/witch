@@ -13,13 +13,14 @@ trappings:
 abilities:
   - name: What's a Nargle?
     checked: true
-    desc: |-
-      when you Study or
-      Theorize about strange phenomena, gain +1d,
-      but you can only explain it to the rest of the
-      coven in confusing ways. When you expand the
-      lore of the world by sharing a strange story of
-      magic, mark Friendship.
+    desc: when you Study or Theorize about strange phenomena, gain +1d, but you can only explain it to the rest of the coven in confusing ways.
+      When you expand the lore of the world by sharing a strange story of magic, mark Friendship.
+  - name: TBD
+  - name: TBD
+  - name: TBD
+  - name: TBD
+  - name: TBD
+  - name: TBD
 contacts:
   - A keeper of oddities
   - A sinister masked figure

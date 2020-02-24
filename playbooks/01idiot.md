@@ -31,6 +31,7 @@ abilities:
   - name: You Again?
     desc: you get an extra downtime action to Behave,
       but the adults in authority learn an important detail of what you did.
+  - name: TBD
 contacts:
   - A mundane friend
   - An impressionable or loud kid

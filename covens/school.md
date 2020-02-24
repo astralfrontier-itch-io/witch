@@ -13,6 +13,10 @@ abilities:
   - name: Study Buddies
     desc: You do school work together, or with a larger group of students.
       When you flash back to a topic you studied together that's relevant now, mark Friendship.
+  - name: TBD
+  - name: TBD
+  - name: TBD
+  - name: TBD
 resources:
   - library of rare books
   - ritual circle

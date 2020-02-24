@@ -20,6 +20,8 @@ abilities:
   - name: Vacation Spot
     desc: you know a beach, park, or other place you can go and relax.
       When you Act Out, you never suffer an effect from reducing more stress than you have.
+  - name: TBD
+  - name: TBD
 resources:
   - club house
   - favorite restaurant

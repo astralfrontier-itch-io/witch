@@ -14,13 +14,16 @@ abilities:
   - name: I'm Here
     checked: true
     desc: |-
-      when you share something
-      personal, like a story or souvenier, with a friend,
-      and they respond positively, you both clear 1
-      stress. When you assist someone in a way that
-      references something you've shared in the past,
-      and they mark Friendship, you don't mark
-      stress.
+      when you share something personal, like a story or souvenier, with a friend,
+      and they respond positively, you both clear 1 stress.
+      When you assist someone in a way that references something you've shared in the past,
+      and they mark Friendship, you don't mark stress.
+  - name: TBD
+  - name: TBD
+  - name: TBD
+  - name: TBD
+  - name: TBD
+  - name: TBD
 contacts:
   - An older sibling
   - A younger sibling

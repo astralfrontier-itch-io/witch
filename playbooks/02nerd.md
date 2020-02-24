@@ -28,6 +28,7 @@ abilities:
     desc: When you encounter a long-duration magical effect, or if someone fails to resist such an effect,
       you can name an escape hatch, loophole, or exception that will negate it.
       The condition you name must involve an element of risk or cost.
+  - name: TBD
 contacts:
   - A fellow nerdy kid
   - An expert in your specialty
