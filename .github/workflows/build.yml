@@ -5,6 +5,7 @@ jobs:
     runs-on: ubuntu-18.04 # linux required if you want to use docker
     steps:
     - uses: actions/checkout@master
+    - run: sudo apt install ghostscript
     - run: ./build.sh
     - uses: actions/upload-artifact@v1
       with:
