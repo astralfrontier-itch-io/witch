@@ -16,7 +16,7 @@ abilities:
     desc: when you Yell or Feel in support of naive optimism, you gain potency.
       When you Resist in the name of those ideals, roll +1d.
   - name: Inspiring Ignorance
-    desc: when someone assists you with a Stupid roll, mark Friendship.
+    desc: when someone assists you with a Foolish roll, mark Friendship.
   - name: Something Amazing
     desc: at the start of an adventure, start a 4­-segment clock.
       Mark a segment when you accept Chaos, or a Bad Outcome happens to anyone.

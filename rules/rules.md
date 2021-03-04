@@ -194,10 +194,10 @@ To make an action roll:
 ### Setting the position
 
 The possible positions are **Boring**, **Risky**, and
-**Stupid**. Boring actions are low-risk, low-reward
+**Foolish**. Boring actions are low-risk, low-reward
 actions like library research where failure is still
 possible, but not dramatic. Risky actions are
-challenging, but can pay off if successful. Stupid
+challenging, but can pay off if successful. Foolish
 actions are foolhardy, dangerous, or desperate,
 things you only do when things are bad. The
 default position is Risky.
@@ -233,8 +233,8 @@ success, and two on a Bad Outcome.
 
 * You hesitate or falter. You can try a different approach at no penalty (Boring only)
 * There's a consequence (reduced effect, immediate peril, or other complications)
-* You're put in a worse position next time (going from Boring to Risky to Stupid)
-* You lose the opportunity (Stupid only)
+* You're put in a worse position next time (going from Boring to Risky to Foolish)
+* You lose the opportunity (Foolish only)
 
 ## Action Roll Effects
 
@@ -253,7 +253,7 @@ depend on the position you rolled from.
 When talking about progress clocks, scrutiny, or
 other counters, Boring positions or Limited
 effects mean 1 tick, Risky positions or Standard
-effects mean 2 ticks, and Stupid positions or
+effects mean 2 ticks, and Foolish positions or
 Great effects mean 3 ticks. Effects beyond Great
 mean 5 ticks.
 
@@ -450,7 +450,7 @@ action scores, or grant them new abilities.
 
 At any time during play, you earn XP:
 
-* When you make a Stupid roll, for any reason, and whether or not it succeeds
+* When you make a Foolish roll, for any reason, and whether or not it succeeds
 
 At the end of the adventure, you earn XP:
 
@@ -562,7 +562,7 @@ on the outcome of that roll:
 * On a Critical Success (multiple 6's), the group has overcome one obstacle, and the next action will be Boring
 * On a Full Success (a 6), the group is ready for anything, and the next action will be Boring by default
 * On a Partial Success (a 4 or 5), the group is taking chances, and the next action will be Risky
-* On a Bad Outcome (a 1­3), the witches are in over their heads, and their next move will be Stupid
+* On a Bad Outcome (a 1-­3), the witches are in over their heads, and their next move will be Foolish
 
 In addition to the engagement roll, the Mentor starts one or more progress clocks:
 
