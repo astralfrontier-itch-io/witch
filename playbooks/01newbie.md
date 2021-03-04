@@ -1,11 +1,11 @@
 ---
-name: The Idiot
+name: The Newbie
 xp-trigger: Address a problem with novelty or curiosity
 touchstones: Harry Potter, Atsuko Kagari, Sae Sawanoguchi
 desc: |-
   You don't know much about the magical world, because you're new to it (you came from a mundane
-  background, your magic was suppressed, etc.) Or, you're just an idiot. There's some kind of magic
-  you're bad at. Maybe all magic. You make up for it with pluck, wits, or some special ability.
+  background, your magic was suppressed, etc.) Or, you've just never studied. There's some kind of magic
+  you're bad at, maybe all magic. You make up for it with pluck, wits, or some special ability.
 trappings:
   - Mundane item or toy
   - Precious keepsake
@@ -15,7 +15,7 @@ abilities:
     checked: true
     desc: when you Yell or Feel in support of naive optimism, you gain potency.
       When you Resist in the name of those ideals, roll +1d.
-  - name: Inspiring Idiocy
+  - name: Inspiring Ignorance
     desc: when someone assists you with a Stupid roll, mark Friendship.
   - name: Something Amazing
     desc: at the start of an adventure, start a 4­-segment clock.
@@ -40,4 +40,4 @@ contacts:
   - A mysterious stranger
 ---
 
-The Idiot was the first playbook I imagined.
+This the first playbook I imagined.
